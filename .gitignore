@@ -1,0 +1,5 @@
+# ns-3 build artifacts
+ns-3-mmwave-oran/build/
+ns-3-mmwave-oran/cmake-cache/
+ns-3-mmwave-oran/.lock-ns3_*
+ns-3-mmwave-oran/testpy-output/
