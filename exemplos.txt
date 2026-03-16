@@ -1,0 +1,15 @@
+ Exemplos Disponíveis
+
+  O módulo inclui mais de 20 exemplos demonstrativos:
+
+  - cttc-nr-demo: Demonstração básica 5G
+  - cttc-nr-mimo-demo: MIMO avançado
+  - cttc-nr-fh-xr: Fronthaul com tráfego XR
+  - cttc-nr-cc-bwp-demo: Component Carrier e BWP
+  - cttc-nr-notching: Notching spectral
+  - cttc-nr-multi-flow-qos-sched: Multi-flow com QoS
+  - cttc-lte-comparison: Comparação LTE vs NR
+  - cttc-3gpp-calibration: Calibração 3GPP outdoor/indoor
+  - gsoc-nr-channel-models: Modelos de canal NYUSIM/FTR
+  - gsoc-nr-rl-based-sched: Scheduling baseado em RL
+
