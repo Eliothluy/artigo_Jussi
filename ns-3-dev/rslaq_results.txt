@@ -1,0 +1,10 @@
+RSLAQ Scenario Results
+==================
+
+Simulation Time: 10 seconds
+
+Slice Performance:
+=================
+
+=================
+End of Results
